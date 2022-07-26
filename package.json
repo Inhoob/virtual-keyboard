@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/Inhoob/side-project/tree/main/virtual%20keyboard",
+  "homepage": "https://github.com/Inhoob/virtual-keyboard",
   "scripts": {
     "build": "webpack --mode production",
     "predeploy": "npm run build",
